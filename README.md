@@ -11,6 +11,3 @@ Data Schema
 A full schema for the data is available in our support documentation:
 https://developer.datafiniti.co/docs/product-data-schema
 
-Principal components analysis (PCA) is a closely related technique for reducing
-the dimensionality of data sets. After dimension reduction via PCA (or SVD), we
-should end up with cleaner data, not merely a smaller number of dimensions.
